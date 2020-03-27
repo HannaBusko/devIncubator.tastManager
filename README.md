@@ -1,1 +1,1 @@
-https://hannabusko.github.io/devIncubator.tastManager/
+https://hannabusko.github.io/devIncubator.tastManager/LogicPart.html
