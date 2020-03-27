@@ -1,0 +1,50 @@
+/* .body {
+    color: #212529;
+    background-color: #fff;
+} */
+
+.light{
+    color: #212529;
+    background-color: white;
+}
+
+.light .btn-primary{
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+.light .list-group-item {
+    background-color: white;
+}
+
+.light .bg-light{
+    background-color: #f8f9fa!important;
+}
+
+.light .dropdown-menu{
+    background-color: white;
+}
+
+
+
+.dark{
+    color: #FF9900;
+    background-color: #1E1E1E;
+}
+
+.dark .btn-primary{
+    background-color: grey;
+    border-color: grey;
+}
+
+.dark .list-group-item {
+    background-color: #404040;
+}
+
+.dark .bg-light{
+    background-color: #404040 !important;
+}
+
+.dark .dropdown-menu{
+    background-color: #707070;
+}
